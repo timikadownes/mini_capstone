@@ -1,6 +1,5 @@
-
-json.id @products.id
-json.name @products.name
-json.price @products.price
-json.description @products.description
-json.image_url @products.image_url
+  json.id @product_id
+  json.name @product_name
+  json.price @product_price
+  json.description @products_description
+  json.image_url @products_image_url
